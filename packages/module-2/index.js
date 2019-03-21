@@ -1,3 +1,3 @@
 exports.demo = (param) => {
-    console.log('hello ' + param)
+    console.log('byebye ' + param)
 }

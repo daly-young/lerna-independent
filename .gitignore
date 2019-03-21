@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/.sass-cache
+*debug.log**
+.DS_Store
+/config/config.js
+.happypack/**
+bin/config/
+manifest.json
+.flowconfig
